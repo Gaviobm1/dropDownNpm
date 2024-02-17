@@ -1,0 +1,29 @@
+{
+  "name": "pop-fade-drop-menu",
+  "version": "1.0.0",
+  "description": "Create menus with animation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaviobm1/dropDownNpm.git"
+  },
+  "keywords": [
+    "drop",
+    "down",
+    "menu",
+    "fade",
+    "out",
+    "pop",
+    "in",
+    "animation"
+  ],
+  "author": "Gavin O Brien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaviobm1/dropDownNpm/issues"
+  },
+  "homepage": "https://github.com/Gaviobm1/dropDownNpm#readme"
+}
