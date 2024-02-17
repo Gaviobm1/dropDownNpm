@@ -1,29 +1,22 @@
 {
-  "name": "pop-fade-drop-menu",
+  "name": "ul-list-menu",
   "version": "1.0.0",
-  "description": "Create menus with animation",
+  "description": "Create ul menus",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Gaviobm1/dropDownNpm.git"
+    "url": "git+https://github.com/Gaviobm1/simple-menu-npm.git"
   },
   "keywords": [
-    "drop",
-    "down",
-    "menu",
-    "fade",
-    "out",
-    "pop",
-    "in",
-    "animation"
+    "menu"
   ],
   "author": "Gavin O Brien",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Gaviobm1/dropDownNpm/issues"
+    "url": "https://github.com/Gaviobm1/simple-menu-npm/issues"
   },
-  "homepage": "https://github.com/Gaviobm1/dropDownNpm#readme"
+  "homepage": "https://github.com/Gaviobm1/simple-menu-npm#readme"
 }
