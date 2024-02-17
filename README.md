@@ -23,7 +23,7 @@ Not
 ### menuClass
 
 ```
-  const menu = dropMenus.menuClass(menuList);
+  const menu = menuClass(menuList);
 ```
 
 A function to create the list object with methods attached
@@ -56,7 +56,7 @@ Adds a new item to the list. Takes two strings as arguments:
 menu.toggleClass('visible', 'hidden');
 ```
 
-Allows the additonal classes to be toggled on all li elements at once. WTakes 3 arguments:
+Allows the additonal classes to be toggled on all li elements at once. Takes 3 arguments:
 1. The class to add on first toggle. Removed when class2 is added.
 2. The class to add on second toggle. Removed when class1 is readded.
 3. Optional key in string form.
@@ -67,7 +67,7 @@ Allows the additonal classes to be toggled on all li elements at once. WTakes 3 
   menu.setTextContent('four', 'new name');
 ```
 
-Changes the text content of a li elements of the ul. Takes 3 arguments:
+Changes the text content of li elements of the ul. Takes 3 arguments:
 1. A string representing the value to be replaced.
 2. A string representing the new value.
 3. Optional key in string form.
