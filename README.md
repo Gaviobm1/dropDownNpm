@@ -24,7 +24,8 @@ menuClass(listDOMElement)
 
 A function to create the list object with methods attached
 
-const menuClass: (list: any) => {
+```
+  const menuClass: (list: any) => {
     addBasicStyling: (key?: string) => void;
     addItem: (value: any, key?: string) => void;
     toggleClass: (class1: any, class2: any, key?: string) => void;
@@ -33,7 +34,8 @@ const menuClass: (list: any) => {
     setClass: (classToSet: any, key?: string) => void;
     attach: (parent?: HTMLElement, child?: string) => void;
     list: any;
-}
+  }
+```
 
 ## Object Methods
 
